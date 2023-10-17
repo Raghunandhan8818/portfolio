@@ -1,0 +1,88 @@
+baseURL: ""
+languageCode: en-us
+title: Raghunandhan
+theme: PaperMod
+
+menu:
+  main:
+    - identifier: home
+      name: Home
+      url: /
+      weight: 10
+    - identifier: projects
+      name: Projects
+      url: /projects
+      weight: 20
+    - identifier: experience
+      name: Experience
+      url: /experience
+      weight: 30
+    - identifier: blog
+      name: Blog
+      url: /blog
+      weight: 40
+    - identifier: search
+      name: Search
+      url: /search
+      weight: 50
+
+params:
+  showToc: true
+  TocOpen: false
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  hideMeta: false
+  env: production
+
+  # Home Page
+  profileMode:
+    enabled: true
+    title: "Raghunandhan AJ"
+    subtitle: " 🚀 Hello, I'm Raghunandhan, a dedicated DevOps engineer and Software developer with a profound commitment to leveraging technology for the betterment of mankind. With a strong foundation in Computer Science Engineering, I've honed my skills to excel in the dynamic world of technology. Currently, I serve as a **Senior Software Development and DevOps Engineer** at **<u>[iQube](https://iqubekct.ac.in)</u>** - an innovation lab, where I continue to push the boundaries of innovation. I've had an exhilarating journey in the technology field. I hold a strong passion for Cloud Computing and DevOps practices, and I'm determined to reshape the way we design and deploy applications in the contemporary era. To strengthen my expertise, I proudly hold **<u>[AWS associate-level certification as a Solutions Architect](https://www.credly.com/badges/7c422453-0a8b-46fb-84a7-bf588501419e/public_url)</u>**, showcasing my proficiency in cloud computing and solution architecture. Beyond technology, I have a keen interest in photography and a love for travel, where I explore new places and cultures, capturing their beauty through my lens. This inspires my problem-solving approach and broadens my horizons."
+    imageUrl: "home/grey_profile_pic.jpeg"
+    imageWidth: 220
+    imageHeight: 220
+    # buttons:
+    #   - name: Resume
+    #     url: ""
+
+  # List View
+  hideDescriptionInList: false
+
+  # cover image for posts
+  cover:
+    hiddenInList: false # hide on list pages and home
+    hiddenInSingle: false # hide on single page
+
+  socialIcons:
+    - name: "email"
+      url: "mailto:raghunandhan8818@gmail.com"
+    - name: "linkedin"
+      url: "https://www.linkedin.com/in/aj-raghunandhan"
+    - name: "github"
+      url: "https://github.com/Raghunandhan8818"
+    # - name: "cv"
+    #   url: ""
+    
+  # text search
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys: ["title", "permalink", "summary", "content"]
+
+# for search using Fuse.js
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+# allow HTML in MD
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
