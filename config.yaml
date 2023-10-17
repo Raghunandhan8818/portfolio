@@ -1,4 +1,4 @@
-baseURL: ""
+baseURL: "https://raghunandhan.netlify.app/"
 languageCode: en-us
 title: Raghunandhan
 theme: PaperMod
@@ -63,7 +63,7 @@ params:
       url: "https://github.com/Raghunandhan8818"
     # - name: "cv"
     #   url: ""
-    
+
   # text search
   fuseOpts:
     isCaseSensitive: false
