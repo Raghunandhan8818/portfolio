@@ -1,6 +1,6 @@
 ---
 title: "My Learnings Towards AWS SAA"
-description: "My journey to my first AWS Certification!"
+description: "Journey to my first AWS Certification!"
 dateString: Oct 2023
 draft: flase
 tags: ["AWS", "AWS Certified", "Solutions Architect", "System Design"]

@@ -5,7 +5,7 @@ dateString: Jan 2022 - Jun 2022
 draft: false
 tags: ["Research", "Innovation", "Machine Learning", "Image Processing", "Jupyter", "Industry Problem", "CRM", "Deep Learning", "Custom Trained Models", "Data Augmentations"]
 showToc: false
-weight: 301
+weight: 302
 --- 
 #### 🔗 [Emerlad Industry](https://ejindia.com)
 
