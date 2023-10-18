@@ -1,5 +1,5 @@
 ---
-title: "Lead Software Development & DevOps Engineer"
+title: "Senior Software Development & DevOps Engineer"
 description: "iQube"
 dateString: Jun 2020 - Ongoing
 draft: false
