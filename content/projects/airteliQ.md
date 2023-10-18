@@ -39,6 +39,6 @@ Participating in the AirteliQ hackathon, in collaboration with Airtel and WhatsA
 
 ## **Recognition and Success:**
 
-Our project stood out as the only student team among the top 11 finalists in the hackathon, which comprised well-established startups. **We garnered recognition and praise not only from Airtel and WhatsApp but also from prominent sponsors, including Meta, TechGig, BYJU'S, Rapido, Swiggy, and Delhivery.**
+Our project stood out as the only student team among the top 11 finalists in the hackathon, which comprised of well-established startups. **We garnered recognition and praise not only from Airtel and WhatsApp but also from prominent sponsors, including Meta, TechGig, BYJU'S, Rapido, Swiggy, and Delhivery.**
 
 This project not only showcases our technical expertise but also our ability to solve real-world challenges with creativity and innovation. It is a testament to our dedication to pushing the boundaries of technology to enhance education and communication through WhatsApp.

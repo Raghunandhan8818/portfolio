@@ -17,7 +17,7 @@ Developed the comprehensive Solid Waste Management System designed to enhance wa
 
 **Key Features and Achievements:**
 
-- **Waste Monitoring System:** Developed and implemented a sophisticated waste monitoring system that tracks waste generation, collection, and disposal within the campus.
+- **Waste Monitoring System:** Developed and implemented a sophisticated waste monitoring system that tracks waste generation, collection, and disposal within my college campus.
 
 - **Mobile Integration with Geofencing:** Integrated the system with a dedicated mobile application used by garbage collectors. Leveraged geofencing technology to precisely locate dustbins, monitor waste collection, and verify completion through photographs.
 

@@ -64,7 +64,7 @@ Balancing theoretical knowledge with practical experience is equally vital. The 
 To assess my knowledge and exam readiness, I found mock tests to be indispensable. Stephane Maarek's practice tests on Udemy were invaluable. They closely resembled the real exam and helped me identify areas needing improvement.
 
 
-In conclusion, my AWS Certified Solutions Architect - Associate journey underscored the importance of strong fundamentals. The foundation laid at iQube proved instrumental in this certification path. The AWS documentation, FAQs, System Design, and AWS Well-Architected Framework are invaluable resources. Embracing the five pillars and engaging in hands-on practice is crucial. As you embark on your own certification journey, remember that success results from a blend of knowledge and practical application. 
+In conclusion, my AWS Certified Solutions Architect - Associate journey underlined the importance of strong fundamentals. The foundation laid at iQube proved instrumental in this certification path. The AWS documentation, FAQs, System Design, and AWS Well-Architected Framework are invaluable resources. Embracing the five pillars and engaging in hands-on practice is crucial. As you embark on your own certification journey, remember that success results from a blend of knowledge and practical application. 
 
 Best of luck 🚀
 

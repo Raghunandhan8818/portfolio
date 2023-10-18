@@ -31,4 +31,4 @@ The jewelry giant faced a monumental challenge. With a catalog comprising over 6
 - **Reduced manual design search times from over 7 days to mere seconds.**
 - Slashed costs by eliminating the need to recreate molds for designs, resulting in **notable expense reduction.**
 - Improved industry productivity by streamlining design retrieval and reducing manual labor.
-- Brought about a transformative change in the industry, resulting in substantial time savings, cost reductions, and enhanced manufacturing efficiency.
+- Brought about a transformative change in the industry, resulting in substantial time saving, cost reduction, and enhanced manufacturing efficiency.

@@ -30,6 +30,6 @@ Grafana, a powerful visualization tool, was used to create dynamic dashboards fo
 **Skills Demonstrated:**
 Highlighted expertise in Kubernetes, Prometheus, and Grafana for monitoring and visualization in a Kubernetes environment.
 
-By showcasing this project, I aim to underscore my proficiency in DevOps practices and my ability to leverage monitoring and visualization tools effectively.
+By showcasing this project, I aim to underline my proficiency in DevOps practices and my ability to leverage monitoring and visualization tools effectively.
 
 ![Graphana Dashboard](/projects/prometheus-graphana/graphana.png#center)

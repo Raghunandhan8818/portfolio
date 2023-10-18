@@ -14,7 +14,7 @@ iQube, standing for "Innovate, Incubate, and Incorporate," is a dynamic ecosyste
 
 ## Key Accomplishments
 
-1. Led the development and maintenance of the admission portal for Kumaraguru Institutions for two years, serving more than 40,000 users annually, resulting in a remarkable 30% reduction in manual work.
+1. Led the development and maintenance of the admission portal for Kumaraguru Institutions for two years, serving more than 25,000 users annually, resulting in a remarkable 30% reduction in manual work.
 
 2. Successfully integrated online entrance tests into the admission portal, enhancing operational efficiency, and slashing application verification times by a substantial 40%.
 
@@ -32,7 +32,7 @@ iQube, standing for "Innovate, Incubate, and Incorporate," is a dynamic ecosyste
 
 9. Mentored junior team members, sharing knowledge and expertise, thereby fostering growth within the software development field.
 
-10. Actively organized and participated in hackathons, coding competitions, and Capture The Flag (CTF) events, creating a vibrant tech community and building strong connections within the industry.
+10. Actively organized and participated in hackathons, coding competitions, and Capture The Flag (CTF) events, creating a vibrant tech community and building strong connections within the industry. Organised fresher bootcamps and sessions to mentor and guide the freshmen community towards technology and innovation.
 
 11. Reduced manual work through innovative solutions, culminating in substantial time savings for both students and administrative staff.
 

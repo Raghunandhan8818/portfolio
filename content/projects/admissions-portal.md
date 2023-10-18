@@ -13,7 +13,7 @@ cover:
 
 ---
 
-I was a contributor to the development and management of the Admissions System for Kumaraguru College of Technology, a critical component of the institution's admissions process. This system is annually employed by nearly 25,000 applicants, and over two consecutive years, I played a pivotal role in its development. 
+I was a contributor to the development and management of the Admissions System for Kumaraguru College of Technology, a critical component of the institution's admissions process. This system is annually employed by nearly 25,000 applicants, and for over two consecutive years, I played a pivotal role in its development. 
 
 Here are the significant features and achievements of this project:
 
