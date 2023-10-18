@@ -22,13 +22,14 @@ The jewelry giant faced a monumental challenge. With a catalog comprising over 6
 
 **Experience Highlights:**
 
-- Addressed the challenge of improving design retrieval in the world's largest jewelry manufacturing industry.
-- Developed a **machine learning model** to find similar design images for customer queries.
-- Overcame difficulties presented by shared design features, such as round shapes and gold coloring.
-- Employed diverse methodologies, including data augmentations, **Pytorch CycleGan**, Gaussian Thresholding, **Local Feature Detection**, **SIFT Keypoint Detection**, **Canny Edge Detection**, **Dense Representations**, Feature and Metric-Based Search, Template Matching, and **Triplet Loss functions**.
-- Combined the results of these methodologies to create a **Content Retrieval Management (CRM)** system.
-- Achieved rapid design retrieval, providing resultant and similar images in under 3 seconds.
-- **Reduced manual design search times from over 7 days to mere seconds.**
-- Slashed costs by eliminating the need to recreate molds for designs, resulting in **notable expense reduction.**
-- Improved industry productivity by streamlining design retrieval and reducing manual labor.
-- Brought about a transformative change in the industry, resulting in substantial time saving, cost reduction, and enhanced manufacturing efficiency.
+- Addressed the challenge of improving design retrieval in the world's largest jewelry manufacturing industry, enhancing the customer experience.
+
+- Developed an **innovative machine learning model** to swiftly locate similar design images based on customer queries.
+
+- Successfully overcame issues related to shared design features like round shapes and gold coloring, ensuring precise image retrieval.
+
+- Employed a wide range of techniques, including data augmentations, **Pytorch CycleGan**, **Gaussian Thresholding**, and more, to create a robust Content Retrieval Management (CRM) system.
+
+- Achieved rapid design retrieval, providing customers with relevant images in under 3 seconds, a significant improvement from the previous manual search process that took over 7 days.
+
+- Revolutionized the industry by significantly reducing costs, eliminating the need to recreate molds for designs, and boosting manufacturing efficiency, resulting in substantial time and expense savings.
